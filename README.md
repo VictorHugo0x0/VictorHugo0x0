@@ -1,6 +1,8 @@
 ## Hi, I'm ArchNull
 
-![ArchNul1 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchNul1&show_icons=true&theme=dark )![ArchNul1 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchNul1&layout=compact&langs_count=7&theme=dark)
+![ArchNul1 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchNul1&show_icons=true&theme=dark )
+
+![ArchNul1 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchNul1&layout=compact&langs_count=7&theme=dark)
 
 ### My Focus
 
