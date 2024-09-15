@@ -15,6 +15,8 @@
 
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Hacking](https://img.shields.io/badge/-Hacking-4B92DB?logo=security&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  ![Networking](https://img.shields.io/badge/-Networking-0073B1?logo=cisco&logoColor=white)  ![Godot](https://img.shields.io/badge/-Godot-3582BF?logo=godot-engine&logoColor=white)
 
-
+<div>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andersonsimplicio/andersonsimplicio/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+</div>
 
   
