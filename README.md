@@ -2,7 +2,9 @@
 
 ![ArchNul1 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchNul1&show_icons=true&theme=dark ) 
 
-![ArchNul1 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchNul1&layout=compact&langs_count=7&theme=dark)        
+![ArchNul1 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchNul1&layout=compact&langs_count=7&theme=dark)     
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Arch0xFFF.png" alt="Seu emblema de imagem" />
 ### My Focus
 
 - **Development**: Crafting code and testing stuff.
@@ -10,8 +12,7 @@
 - **Ethical Hacking Web**: Identifying vulnerabilities and enhancing security through ethical practices.
 - **Gaming Developer**: Developing games in my spare time.
 
-###
-<img src="https://tryhackme-badges.s3.amazonaws.com/Arch0xFFF.png" alt="Seu emblema de imagem" />
+
 
 
 
